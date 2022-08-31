@@ -1,5 +1,9 @@
-database
-  user:jorge
-  password:123
-server
-  port:8080
+database:
+  user: jorge
+  password: 123
+server: 
+  port: 8080
+  host: "localhost"
+email:
+  user: "jorge.gregorio@fatec.sp.gov.br"
+  password: "112233"
