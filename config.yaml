@@ -1,9 +1,9 @@
 database:
-  user: jorge
-  password: 123
+  user: skywalker.luke
+  password: tatooine
 server: 
   port: 8080
   host: "localhost"
 email:
-  user: "jorge.gregorio@fatec.sp.gov.br"
-  password: "112233"
+  user: "skywalker.luke@coruscant.com"
+  password: "aabbcc"
